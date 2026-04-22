@@ -1,11 +1,5 @@
 # Virtual Museum
 
-![Retro Camera Showcase](./public/demo.gif)
-
-## Live
-
-https://virtual-museum.tompastor.fr/
-
 ## Description
 
 A virtual gallery built with React Three Fiber and TailwindCSS to showcase my drawings and illustrations in an immersive 3D environment. This project was created as both a digital exhibition space and a practical exercise to improve my Three.js skills.
